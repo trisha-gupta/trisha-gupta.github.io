@@ -5944,7 +5944,8 @@ button.close {
 }
 .modal-body {
   position: relative;
-  padding: 15px;
+  padding: 5px;
+
 }
 .modal-footer {
   padding: 15px;
