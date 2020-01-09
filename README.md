@@ -1,1 +1,1 @@
-# trisha-nagre.github.io
+# trisha-gupta.github.io
